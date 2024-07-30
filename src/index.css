@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+  }
+  
+  #root {
+    height: 100vh;
+  }
+  
