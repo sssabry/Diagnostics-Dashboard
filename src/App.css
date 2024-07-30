@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .main {
+    display: flex;
+    flex: 1;
+  }
+  
+  .dashboard {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
